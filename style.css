@@ -15,7 +15,7 @@ body {
   background: radial-gradient(#FFFFFF, #C6A0F6);
 }
 
-.outline {
+#page {
   background: linear-gradient(45deg, #D9B2B2, #96A9EB);
   display: inline-block;
   width: 90vw;
